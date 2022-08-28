@@ -1,0 +1,355 @@
+Name: -99999 : 3
+
+North: 2021906.6448'     East: 6772370.9942'
+
+Segment #1  :  Line
+
+Course: N22° 08' 54"W     Length: 176.96'
+North: 2022070.5471'     East: 6772304.2793'
+
+
+Segment #2  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2022234.4401'     East: 6772237.5681'
+
+
+Segment #3  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2022398.3332'     East: 6772170.8569'
+
+
+Segment #4  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2022562.2262'     East: 6772104.1458'
+
+
+Segment #5  :  Line
+
+Course: N89° 03' 51"E     Length: 1715.75'
+North: 2022590.2489'     East: 6773819.6669'
+
+
+Segment #6  :  Line
+
+Course: S00° 47' 50"E     Length: 18.61'
+North: 2022571.6407'     East: 6773819.9258'
+
+
+Segment #7  :  Line
+
+Course: S52° 23' 51"W     Length: 165.61'
+North: 2022470.5889'     East: 6773688.7192'
+
+
+Segment #8  :  Line
+
+Course: S49° 03' 09"W     Length: 312.26'
+North: 2022265.9439'     East: 6773452.8659'
+
+
+Segment #9  :  Curve
+
+Length: 107.08'     Radius: 200.00'
+Delta: 030° 40' 30"     Tangent: 54.85'
+Chord: 105.80'     Course: S33° 42' 54"W
+Course In: S40° 56' 51"E     Course Out: N71° 37' 21"W
+RP North: 2022114.8818'     East: 6773583.9394'
+End North: 2022177.9371'     East: 6773394.1394'
+
+
+Segment #10  :  Line
+
+Course: S18° 22' 39"W     Length: 177.05'
+North: 2022009.9167'     East: 6773338.3197'
+
+
+Segment #11  :  Curve
+
+Length: 100.37'     Radius: 300.00'
+Delta: 019° 10' 07"     Tangent: 50.66'
+Chord: 99.90'     Course: S27° 57' 43"W
+Course In: N71° 37' 21"W     Course Out: S52° 27' 13"E
+RP North: 2022104.4996'     East: 6773053.6197'
+End North: 2021921.6785'     East: 6773291.4778'
+
+
+Segment #12  :  Line
+
+Course: S89° 03' 51"W     Length: 920.60'
+North: 2021906.6427'     East: 6772371.0006'
+
+
+Perimeter: 4225.14'     Area: 833022.55 Sq. Ft.
+Error Closure:           0.0068     Course: S71° 25' 19"E
+Error North:         -0.00216     East: 0.00641
+
+Precision  1: 621344.12       
+
+************************************************************************
+Name: -99999 : 7
+
+North: 2021578.8508'     East: 6772504.4194'
+
+Segment #1  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2021742.7438'     East: 6772437.7082'
+
+
+Segment #2  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2021906.6368'     East: 6772370.9970'
+
+
+Segment #3  :  Line
+
+Course: N89° 03' 51"E     Length: 920.60'
+North: 2021921.6727'     East: 6773291.4742'
+
+
+Segment #4  :  Curve
+
+Length: 140.75'     Radius: 300.00'
+Delta: 026° 52' 53"     Tangent: 71.69'
+Chord: 139.46'     Course: S50° 59' 13"W
+Course In: N52° 27' 13"W     Course Out: S25° 34' 21"E
+RP North: 2022104.4937'     East: 6773053.6162'
+End North: 2021833.8818'     East: 6773183.1120'
+
+
+Segment #5  :  Line
+
+Course: S64° 25' 39"W     Length: 222.46'
+North: 2021737.8563'     East: 6772982.4443'
+
+
+Segment #6  :  Line
+
+Course: S59° 20' 09"W     Length: 304.88'
+North: 2021582.3660'     East: 6772720.1952'
+
+
+Segment #7  :  Line
+
+Course: S89° 03' 51"W     Length: 215.81'
+North: 2021578.8412'     East: 6772504.4140'
+
+
+Perimeter: 2158.41'     Area: 191917.23 Sq. Ft.
+Error Closure:           0.0110     Course: S29° 18' 09"W
+Error North:         -0.00958     East: -0.00537
+
+Precision  1: 196218.18       
+
+************************************************************************
+Name: -999999 : 14
+
+North: 2021582.3755'     East: 6772720.1999'
+
+Segment #1  :  Line
+
+Course: S59° 20' 09"W     Length: 160.36'
+North: 2021500.5911'     East: 6772582.2628'
+
+
+Segment #2  :  Curve
+
+Length: 70.96'     Radius: 50.00'
+Delta: 081° 18' 58"     Tangent: 42.94'
+Chord: 65.15'     Course: S18° 40' 40"W
+Course In: S30° 39' 51"E     Course Out: S68° 01' 11"W
+RP North: 2021457.5825'     East: 6772607.7631'
+End North: 2021438.8682'     East: 6772561.3975'
+
+
+Segment #3  :  Line
+
+Course: N22° 08' 54"W     Length: 151.13'
+North: 2021578.8464'     East: 6772504.4206'
+
+
+Segment #4  :  Line
+
+Course: N89° 03' 51"E     Length: 215.81'
+North: 2021582.3712'     East: 6772720.2018'
+
+
+Perimeter: 598.26'     Area: 11261.08 Sq. Ft.
+Error Closure:           0.0047     Course: S23° 15' 31"E
+Error North:         -0.00435     East: 0.00187
+
+Precision  1: 127289.36       
+
+************************************************************************
+Name: 334687 : 1
+
+North: 2021500.5914'     East: 6772582.2631'
+
+Segment #1  :  Line
+
+Course: N59° 20' 09"E     Length: 160.36'
+North: 2021582.3758'     East: 6772720.2002'
+
+
+Segment #2  :  Line
+
+Course: N89° 03' 51"E     Length: 1113.39'
+North: 2021600.5604'     East: 6773833.4417'
+
+
+Segment #3  :  Line
+
+Course: S00° 47' 51"E     Length: 329.93'
+North: 2021270.6624'     East: 6773838.0339'
+
+
+Segment #4  :  Line
+
+Course: S89° 03' 51"W     Length: 1200.35'
+North: 2021251.0575'     East: 6772637.8440'
+
+
+Segment #5  :  Line
+
+Course: N22° 08' 54"W     Length: 176.95'
+North: 2021414.9505'     East: 6772571.1328'
+
+
+Segment #6  :  Line
+
+Course: N22° 08' 54"W     Length: 25.82'
+North: 2021438.8653'     East: 6772561.3985'
+
+
+Segment #7  :  Curve
+
+Length: 70.96'     Radius: 50.00'
+Delta: 081° 18' 58"     Tangent: 42.94'
+Chord: 65.15'     Course: N18° 40' 40"E
+Course In: N68° 01' 11"E     Course Out: N30° 39' 51"W
+RP North: 2021457.5796'     East: 6772607.7642'
+End North: 2021500.5882'     East: 6772582.2639'
+
+
+Perimeter: 3077.76'     Area: 406024.62 Sq. Ft.
+Error Closure:           0.0033     Course: S13° 31' 28"E
+Error North:         -0.00319     East: 0.00077
+
+Precision  1: 932654.55       
+
+************************************************************************
+Name: 334688 : 8
+
+End North: 2021833.8892'     East: 6773183.1130'
+
+Segment #1  :  Curve
+
+Length: 140.75'     Radius: 300.00'
+Delta: 026° 52' 53"     Tangent: 71.69'
+Chord: 139.46'     Course: N50° 59' 13"E
+Course In: N25° 34' 21"W     Course Out: S52° 27' 13"E
+RP North: 2022104.5012'     East: 6773053.6171'
+End North: 2021921.6801'     East: 6773291.4752'
+
+
+Segment #2  :  Line
+
+Course: N89° 03' 51"E     Length: 537.44'
+North: 2021930.4579'     East: 6773828.8435'
+
+
+Segment #3  :  Line
+
+Course: S00° 47' 51"E     Length: 329.93'
+North: 2021600.5599'     East: 6773833.4357'
+
+
+Segment #4  :  Line
+
+Course: S89° 03' 51"W     Length: 1113.39'
+North: 2021582.3753'     East: 6772720.1942'
+
+
+Segment #5  :  Line
+
+Course: N59° 20' 09"E     Length: 304.88'
+North: 2021737.8656'     East: 6772982.4432'
+
+
+Segment #6  :  Line
+
+Course: N64° 25' 39"E     Length: 222.46'
+North: 2021833.8911'     East: 6773183.1110'
+
+
+Perimeter: 2648.85'     Area: 267880.30 Sq. Ft.
+Error Closure:           0.0027     Course: N46° 35' 38"W
+Error North:          0.00188     East: -0.00199
+
+Precision  1: 981055.56       
+
+************************************************************************
+Name: 334689 : 11
+
+North: 2022470.5880'     East: 6773688.7148'
+
+Segment #1  :  Line
+
+Course: N52° 23' 51"E     Length: 165.61'
+North: 2022571.6399'     East: 6773819.9215'
+
+
+Segment #2  :  Line
+
+Course: S00° 47' 51"E     Length: 641.25'
+North: 2021930.4520'     East: 6773828.8467'
+
+
+Segment #3  :  Line
+
+Course: S89° 03' 51"W     Length: 537.44'
+North: 2021921.6742'     East: 6773291.4784'
+
+
+Segment #4  :  Curve
+
+Length: 100.37'     Radius: 300.00'
+Delta: 019° 10' 07"     Tangent: 50.66'
+Chord: 99.90'     Course: N27° 57' 43"E
+Course In: N52° 27' 13"W     Course Out: S71° 37' 21"E
+RP North: 2022104.4953'     East: 6773053.6204'
+End North: 2022009.9124'     East: 6773338.3203'
+
+
+Segment #5  :  Line
+
+Course: N18° 22' 39"E     Length: 177.05'
+North: 2022177.9328'     East: 6773394.1400'
+
+
+Segment #6  :  Curve
+
+Length: 107.08'     Radius: 200.00'
+Delta: 030° 40' 30"     Tangent: 54.85'
+Chord: 105.80'     Course: N33° 42' 54"E
+Course In: S71° 37' 21"E     Course Out: N40° 56' 51"W
+RP North: 2022114.8775'     East: 6773583.9400'
+End North: 2022265.9396'     East: 6773452.8666'
+
+
+Segment #7  :  Line
+
+Course: N49° 03' 09"E     Length: 312.26'
+North: 2022470.5846'     East: 6773688.7198'
+
+
+Perimeter: 2041.05'     Area: 214100.10 Sq. Ft.
+Error Closure:           0.0061     Course: S55° 05' 54"E
+Error North:         -0.00348     East: 0.00499
+
+Precision  1: 334600.00       
+

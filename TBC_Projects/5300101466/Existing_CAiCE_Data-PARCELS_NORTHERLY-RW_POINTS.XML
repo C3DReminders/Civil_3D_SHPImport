@@ -1,0 +1,313 @@
+<?xml version="1.0"?><LandXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" language="English" readOnly="false">
+	<Units>
+		<Imperial areaUnit="squareMiles" linearUnit="USSurveyFoot" volumeUnit="cubicYard" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal dd.mm.ss" latLongAngularUnit="decimal dd.mm.ss" elevationUnit="feet"/>
+	</Units>
+	<CoordinateSystem ellipsoidName="GRS1980" horizontalCoordinateSystemName="HARN/CA.CA-VF" geocentricCoordinateSystemName="405"/>
+	<Project name="CAiCE Project - RW" desc=""/>
+	<Application name="CAiCE project data - Caltrans Export XML macro" desc="Points and non-Alignment Geometry Chains exported from CAiCE" manufacturer="Caltrans - the Office of CADD &amp; the Office of Land Surveys" version="12.1" manufacturerURL="http://www.dot.ca.gov/hq/oppd/cadd/rsc_files/webpage.htm" timeStamp="2012-10-06T00:00:00.000"/>
+	<CgPoints name="CAiCE Points - EXISTING_CAICE_DATA-PARCELS_NORTHERLY-RW_POINTS.XML" desc="Created with Caltrans Survey &amp; R/W Data to Civil 3D Macro">
+		<CgPoint name="LP62" featureRef="LP62" zoneNumber="38" code="LP" pointGeometry="point" DTMAttribute="feature">2021251.056853 6772637.844491 0</CgPoint>
+		<CgPoint name="XPA1" featureRef="XPA1" zoneNumber="38" code="XPA" pointGeometry="point" DTMAttribute="feature">2020965.7943830 6772705.0969920 0</CgPoint>
+		<CgPoint name="XPA2" featureRef="XPA2" zoneNumber="38" code="XPA" pointGeometry="point" DTMAttribute="feature">2022974.9847820 6771887.2766670 0</CgPoint>
+		<CgPoint name="XU1" featureRef="XU1" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2022926.140004 6771767.302107 0</CgPoint>
+		<CgPoint name="XU2" featureRef="XU2" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2019992.160905 6772961.546019 0</CgPoint>
+		<CgPoint name="XU3" featureRef="XU3" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2022963.832024 6771859.899142 0</CgPoint>
+		<CgPoint name="XU41" featureRef="XU41" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2020581.199838 6772829.725112 0</CgPoint>
+		<CgPoint name="XU43" featureRef="XU43" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2021102.442985 6774110.295789 0</CgPoint>
+		<CgPoint name="XU42" featureRef="XU42" zoneNumber="48" code="XU" pointGeometry="point" DTMAttribute="feature">2020080.812185 6773178.723899 0</CgPoint>
+		<Feature name="LP62" source="CAiCE Point">
+			<Property label="TSS/Comment" value="SW corner LOT 71"></Property>
+			<Property label="CAiCE/Comment" value="Hold this location"></Property>
+		</Feature>
+		<Feature name="XPA1" source="CAiCE Point">
+			<Property label="TSS/Comment" value="CL E Street"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XPA2" source="CAiCE Point">
+			<Property label="TSS/Comment" value="CL E Street"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU1" source="CAiCE Point">
+			<Property label="TSS/Comment" value="RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU2" source="CAiCE Point">
+			<Property label="TSS/Comment" value="RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU3" source="CAiCE Point">
+			<Property label="TSS/Comment" value="RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU41" source="CAiCE Point">
+			<Property label="TSS/Comment" value="EC 1382.590206' radius curve, RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU43" source="CAiCE Point">
+			<Property label="TSS/Comment" value="Ctr 1382.590206' radius curve, RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+		<Feature name="XU42" source="CAiCE Point">
+			<Property label="TSS/Comment" value="BC 1382.590206' radius curve, RR Easement"></Property>
+			<Property label="CAiCE/Comment" value=""></Property>
+		</Feature>
+	</CgPoints>
+	<PlanFeatures name="CAiCE non-Alignment Geometry Chains - EXISTING_CAICE_DATA-PARCELS_NORTHERLY-RW_POINTS.XML" desc="Created with Caltrans Survey &amp; R/W Data to Civil 3D Macro">
+		<PlanFeature name="LP-LP4" length="3708.98503963261" staStart="0" desc="Lot 78">
+			<CoordGeom>
+				<Line dir="269.064166666968" length="1715.7491492595">
+					<Start>2022590.25123959 6773819.6659487</Start>
+					<End>2022562.22851493 6772104.14565733</End>
+				</Line>
+				<Line dir="157.851737115837" length="176.949593433179">
+					<Start>2022562.22851493 6772104.14565733</Start>
+					<End>2022398.33578584 6772170.85646581</End>
+				</Line>
+				<Line dir="89.0641666670282" length="1651.32538315662">
+					<Start>2022398.33578584 6772170.85646581</Start>
+					<End>2022425.30629988 6773821.96158434</End>
+				</Line>
+				<Line dir="359.20263245305" length="164.960913783303">
+					<Start>2022425.30629988 6773821.96158434</Start>
+					<End>2022590.25123959 6773819.6659487</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 78"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP5" length="3580.14472346935" staStart="0" desc="Lot 77">
+			<CoordGeom>
+				<Line dir="269.064166667028" length="1651.32538315662">
+					<Start>2022425.30629988 6773821.96158434</Start>
+					<End>2022398.33578584 6772170.85646581</End>
+				</Line>
+				<Line dir="157.851727519632" length="176.954202698573">
+					<Start>2022398.33578584 6772170.85646581</Start>
+					<End>2022234.43879877 6772237.56903945</End>
+				</Line>
+				<Line dir="89.064166667028" length="1586.89993764118">
+					<Start>2022234.43879877 6772237.56903945</Start>
+					<End>2022260.35707477 6773824.25730595</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.965199972971">
+					<Start>2022260.35707477 6773824.25730595</Start>
+					<End>2022425.30629988 6773821.96158434</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 77"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP6" length="3451.29198928071" staStart="0" desc="Lot 76">
+			<CoordGeom>
+				<Line dir="269.064166667028" length="1586.89993764118">
+					<Start>2022260.35707477 6773824.25730595</Start>
+					<End>2022234.43879877 6772237.56903945</End>
+				</Line>
+				<Line dir="157.851727519633" length="176.953027342279">
+					<Start>2022234.43879877 6772237.56903945</Start>
+					<End>2022070.54290032 6772304.28116998</End>
+				</Line>
+				<Line dir="89.0641666669758" length="1522.4749200492">
+					<Start>2022070.54290032 6772304.28116998</Start>
+					<End>2022095.40894528 6773826.55301232</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.964104248044">
+					<Start>2022095.40894528 6773826.55301232</Start>
+					<End>2022260.35707477 6773824.25730595</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 76"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP7" length="3322.44564029966" staStart="0" desc="Lot 75">
+			<CoordGeom>
+				<Line dir="269.064166666976" length="1522.4749200492">
+					<Start>2022095.40894528 6773826.55301232</Start>
+					<End>2022070.54290032 6772304.28116998</End>
+				</Line>
+				<Line dir="157.851727519631" length="176.955377983224">
+					<Start>2022070.54290032 6772304.28116998</Start>
+					<End>2021906.64482469 6772370.99418671</End>
+				</Line>
+				<Line dir="89.064166667017" length="1458.0490466364">
+					<Start>2021906.64482469 6772370.99418671</Start>
+					<End>2021930.45862462 6773828.84874918</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.966295630837">
+					<Start>2021930.45862462 6773828.84874918</Start>
+					<End>2022095.40894528 6773826.55301232</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 75"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP8" length="3193.59205042912" staStart="0" desc="Lot 74">
+			<CoordGeom>
+				<Line dir="269.064166667017" length="1458.0490466364">
+					<Start>2021930.45862462 6773828.84874918</Start>
+					<End>2021906.64482469 6772370.99418671</End>
+				</Line>
+				<Line dir="157.85172751966" length="176.954202698788">
+					<Start>2021906.64482469 6772370.99418671</Start>
+					<End>2021742.74783762 6772437.70676035</End>
+				</Line>
+				<Line dir="89.0641666670068" length="1393.62360112096">
+					<Start>2021742.74783762 6772437.70676035</Start>
+					<End>2021765.50939951 6773831.1444708</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.965199972971">
+					<Start>2021765.50939951 6773831.1444708</Start>
+					<End>2021930.45862462 6773828.84874918</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 74"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP9" length="3064.74126116419" staStart="0" desc="Lot 73">
+			<CoordGeom>
+				<Line dir="269.064166667007" length="1393.62360112096">
+					<Start>2021765.50939951 6773831.1444708</Start>
+					<End>2021742.74783762 6772437.70676035</End>
+				</Line>
+				<Line dir="157.851727519613" length="176.954267593751">
+					<Start>2021742.74783762 6772437.70676035</Start>
+					<End>2021578.85079044 6772504.41935845</End>
+				</Line>
+				<Line dir="89.0641666669916" length="1329.19813197845">
+					<Start>2021578.85079044 6772504.41935845</Start>
+					<End>2021600.56011391 6773833.44019325</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.965260471025">
+					<Start>2021600.56011391 6773833.44019325</Start>
+					<End>2021765.50939951 6773831.1444708</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 73"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP10" length="2935.88951212765" staStart="0" desc="Lot 72">
+			<CoordGeom>
+				<Line dir="269.064166666992" length="1329.19813197845">
+					<Start>2021600.56011391 6773833.44019325</Start>
+					<End>2021578.85079044 6772504.41935845</End>
+				</Line>
+				<Line dir="157.85172751965" length="176.953750588046">
+					<Start>2021578.85079044 6772504.41935845</Start>
+					<End>2021414.95422212 6772571.13176165</End>
+				</Line>
+				<Line dir="89.0641666669864" length="1264.77285106737">
+					<Start>2021414.95422212 6772571.13176165</Start>
+					<End>2021435.61131024 6773835.735909</End>
+				</Line>
+				<Line dir="359.202623307796" length="164.96477849379">
+					<Start>2021435.61131024 6773835.735909</Start>
+					<End>2021600.56011391 6773833.44019325</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 72"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="LP-LP11" length="2807.04030624805" staStart="0" desc="Lot 71">
+			<CoordGeom>
+				<Line dir="269.064166666987" length="1264.77285106737">
+					<Start>2021435.61131024 6773835.735909</Start>
+					<End>2021414.95422212 6772571.13176165</End>
+				</Line>
+				<Line dir="157.851727519636" length="176.95461525449">
+					<Start>2021414.95422212 6772571.13176165</Start>
+					<End>2021251.05685294 6772637.84449082</End>
+				</Line>
+				<Line dir="89.0641666669897" length="1200.34725534868">
+					<Start>2021251.05685294 6772637.84449082</Start>
+					<End>2021270.66170056 6773838.03163597</End>
+				</Line>
+				<Line dir="359.202623307797" length="164.965584577521">
+					<Start>2021270.66170056 6773838.03163597</Start>
+					<End>2021435.61131024 6773835.735909</End>
+				</Line>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value="Lot 71"></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+		<PlanFeature name="XCL-XR4" length="3976.23457328176" staStart="0" desc="">
+			<CoordGeom>
+				<Line dir="157.851716252724" length="1051.16796624197">
+					<Start>2022988.39 6771930.681</Start>
+					<End>2022014.7864 6772326.9765</End>
+				</Line>
+				<Curve rot="ccw" radius="49.9894699344619" length="92.7393470746898" crvType="arc" chord="80.0007609874955" tangent="66.6934123155012" delta="-106.293849267555" dirStart="157.851686986835" dirEnd="51.5578377195946">
+					<Start>2022014.7864 6772326.9765</Start>
+					<Center>2022033.6327 6772373.2773</Center>
+					<End>2021994.47913949 6772404.35696865</End>
+					<PI>2021953.0142238 6772352.12027644</PI>
+				</Curve>
+				<Line dir="51.5578940343691" length="127.357186140577">
+					<Start>2021994.47913949 6772404.35696865</Start>
+					<End>2022073.6601 6772504.1078</End>
+				</Line>
+				<Line dir="44.74066215845" length="475.75960951635">
+					<Start>2022073.6601 6772504.1078</Start>
+					<End>2022411.5922 6772838.9945</End>
+				</Line>
+				<Line dir="44.7407026706109" length="134.731596617413">
+					<Start>2022411.5922 6772838.9945</Start>
+					<End>2022507.292 6772933.83200001</End>
+				</Line>
+				<Curve rot="cw" radius="199.955161339584" length="165.5052592174" crvType="arc" chord="160.821021415169" tangent="87.8249572213284" delta="47.4243964339141" dirStart="44.7403132413032" dirEnd="92.1647096750717">
+					<Start>2022507.292 6772933.83200001</Start>
+					<Center>2022366.54463243 6773075.86102897</Center>
+					<End>2022566.3571 6773083.4138</End>
+					<PI>2022569.67445269 6772995.65151721</PI>
+				</Curve>
+				<Line dir="92.164005139101" length="199.207968040363">
+					<Start>2022566.3571 6773083.4138</Start>
+					<End>2022558.835 6773282.4797</End>
+				</Line>
+				<Curve rot="ccw" radius="199.973390840394" length="60.4088865066929" crvType="arc" chord="60.1794558647627" tangent="30.4362513584" delta="-17.3081739894123" dirStart="83.3027893537242" dirEnd="65.9946153637152">
+					<Start>2022558.835 6773282.4797</Start>
+					<Center>2022757.44383807 6773259.15832602</Center>
+					<End>2022574.7667 6773340.512</End>
+					<PI>2022562.38454825 6773312.70826438</PI>
+				</Curve>
+				<Line dir="57.1359450533293" length="336.399166135318">
+					<Start>2022574.7667 6773340.512</Start>
+					<End>2022757.3129 6773623.074</End>
+				</Line>
+				<Line dir="53.2785404442521" length="239.858124131434">
+					<Start>2022757.3129 6773623.074</Start>
+					<End>2022900.7301653 6773815.3327</End>
+				</Line>
+				<Line dir="53.2807446425642" length="829.914609299515">
+					<Start>2022900.7301653 6773815.3327</Start>
+					<End>2023396.9316 6774480.5713</End>
+				</Line>
+				<Curve rot="ccw" radius="2699.51589083393" length="263.184854360038" crvType="arc" chord="263.080635081743" tangent="131.69675800867" delta="-5.58595762958711" dirStart="53.279803447479" dirEnd="47.6938458176195">
+					<Start>2023396.9316 6774480.5713</Start>
+					<Center>2025560.76887622 6772866.50987399</Center>
+					<End>2023564.31813818 6774683.53229968</End>
+					<PI>2023475.67411001 6774586.13480311</PI>
+				</Curve>
+			</CoordGeom>
+			<Feature>
+				<Property label="Figure Description" value=""></Property>
+				<Property label="Figure Comment" value=""></Property>
+			</Feature>
+		</PlanFeature>
+	</PlanFeatures>
+</LandXML>
